@@ -1,2 +1,2 @@
 # OneNode
-A temporary project started by Nandu Neerukonda
+First project from Nandu Neerukonda
